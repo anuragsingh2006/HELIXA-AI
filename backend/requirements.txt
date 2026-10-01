@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+python-dotenv
+tavily-python
+wikipedia
+pydantic
